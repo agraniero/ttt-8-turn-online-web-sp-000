@@ -18,6 +18,10 @@ def position_taken?(board, index)
   board[index] ==  " " || board[index] == ""|| board[index] == nil ? false : true 
 end
 
-def move 
+def move(board, index)
+  
+end
+
+def turn 
   
 end
